@@ -1,3 +1,25 @@
+atividade_explicações_projeto_renancaldas-todo-redux-webpack-mui
+Projeto Base: https://github.com/renancaldas/todo-redux-webpack-mui
+
+Objetivo: Pegar como base o projeto Base e criar um novo Projeto que também Adicione, Remova e Liste itens adicionados pelo usuário.
+
+OBS: Por se tratar de arquivos temporários, ao atualizar o browser os arquivos são perdidos.
+
+Atividade de Treinamento com explicações da execução do projeto
+
+Pacotes que devem ser instalados para a perfeita execução do app:
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install webpack -g OBS: Adicionar o webpack no pacote.dev
+npm install webpack --save-dev Instalação do Redux npm install --save redux react-redux Instalação do pacote eslint airbnb npm install eslint --save-dev
+#Para executar o App
+
+Clone o Projeto Git clone
+Instale o pacore npm npm install //Este comando vai adiionar o node_modules com as dependêencias do projeto
+Execute o projeto npm start
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
