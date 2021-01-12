@@ -1,0 +1,17 @@
+body {
+  background: rgb(175,238,238) no-repeat center center fixed;
+  text-align: center;
+}
+
+.title{
+
+  font-size: 3rem;
+  padding: 0px 20px 0px 20px;
+  background-color: rgb(123, 143, 255);
+  border-radius: 3px;
+  border: 2px solid rgb(4, 11, 51);
+  align-self: center;
+  color: #1b1b1b;
+  font-family: "Covered By Your Grace", cursive;
+
+}
